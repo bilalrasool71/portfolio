@@ -1,0 +1,225 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "/",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "As a seasoned full-stack developer and AI integration expert, I help entrepreneurs and businesses bring their innovative ideas to life. With <span class='underline'>4 years of experience in full-stack development</span> using technologies like <span class='underline'>React</span>, <span class='underline'>Angular</span>, <span class='underline'>Python</span>, and <span class='underline'>FastAPI</span> and <span class='underline'>3 years of expertise in low-code development</span> using platforms like <span class='underline>Bubble</span>, <span class='underline'>Oracle APEX</span>, and <span class='underline'>WordPress</span>. I deliver scalable and efficient web applications. I rapidly prototype and deploy solutions using low code tools, enabling quick idea validation and product launch. Let's collaborate to build new web applications, and integrate AI capabilities.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>6+ years as a developer</span>, I've continuously expanded my skill set. With <span class='underline'>3+ years of full-stack experience</span>, I've adeptly managed backend tasks using <span class='underline'>FastAPI</span> and <span class='underline'>PostgreSQL</span>, while <span class='underline'>Angular</span> and <span class='underline'>React</span> have been my go-to for crafting intuitive user interfaces. Concurrently, I've spent over <span class='underline'>3 years mastering low-code development</span>, seamlessly integrating AI into applications using platforms like <span class='underline'>Bubble.io</span>, <span class='underline'>Wix</span>, and <span class='underline'>WordPress</span>. <span class='underline'>Oracle APEX</span> has also been pivotal in building scalable, enterprise-grade solutions. Committed to ongoing learning, I embrace new challenges to drive impactful results in every project.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Rapidevs",
+            "Title": "Angular Developer, Bubble IO Developer",
+            "Date": "August 2023 - Present",
+            "Description": [
+                "Develop user-facing features using Angular framework.",
+                "Build reusable components and front-end libraries for future use.",
+                "Optimize application performance and ensure responsiveness.",
+                "Collaborate with back-end developers and UI/UX designers to implement features.",
+                "Integrate Bubble.io functionality into web applications.",
+                "Customize Bubble.io workflows and plugins to meet project requirements.",
+                "Troubleshoot and debug issues in Angular and Bubble.io applications.",
+                "Stay up-to-date with the latest industry trends and best practices in Angular and Bubble.io development."
+            ]
+        },
+        {
+            "Tab": "Kay&Emms",
+            "Title": "Angular Developer",
+            "Date": "June 2023 - Present",
+            "Description": [
+                "Develop user-friendly web applications with HTML5, CSS3, JavaScript (ES6+), and TypeScript.",
+                "Collaborate with UX/UI designers to translate design mockups into responsive interfaces.",
+                "Use Angular to build scalable web applications.",
+                "Implement state management solutions like NgRx.",
+                "Integrate RESTful APIs and GraphQL endpoints for dynamic content.",
+                "Optimize applications for speed and scalability across devices and browsers.",
+                "Conduct code reviews and provide feedback for code quality.",
+                "Work with backend developers to define API contracts.",
+                "Implement automated testing suites to validate code.",
+                "Stay updated with frontend technologies and trends.",
+                "Participate in Agile processes for incremental software delivery."
+            ]
+        },
+        {
+            "Tab": "Fsd Airport",
+            "Title": "Web Designer",
+            "Date": "November 2018 - July 2021",
+            "Description": [
+                "Create visually appealing and user-friendly website designs based on client requirements and brand guidelines.",
+                "Collaborate with clients and stakeholders to understand project objectives and design preferences.",
+                "Produce wireframes, mockups, and prototypes to visualize design concepts and gather feedback.",
+                "Use tools such as Adobe Photoshop, Illustrator, Sketch, or Figma to design website layouts and components.",
+                "Ensure designs are responsive and optimized for various devices and screen sizes.",
+                "Work closely with frontend developers to implement designs using HTML, CSS, and JavaScript.",
+                "Maintain consistency in design elements and visual style throughout the website."
+            ]
+        },
+        {
+            "Tab": "Freelancer",
+            "Title": "Low Code Developer (Oracle APEX, Bubble IO, WordPress, Wix)",
+            "Date": "March 2017 - Present",
+            "Description": [
+                "Develop and customize web applications and websites using low-code platforms such as Oracle APEX, Bubble.io, WordPress, and Wix.",
+                "Work closely with clients to understand their requirements and translate them into functional and visually appealing solutions.",
+                "Utilize the features and functionalities of low-code platforms to rapidly prototype and deploy applications.",
+                "Customize themes, templates, and plugins to meet client specifications and branding guidelines.",
+                "Implement responsive design techniques to ensure optimal user experience across different devices and screen sizes.",
+                "Integrate third-party APIs and services to extend the functionality of web applications and websites.",
+                "Optimize performance and security of applications and websites, including database optimization, code refactoring, and security best practices.",
+                "Provide ongoing maintenance and support for deployed applications, including troubleshooting issues and implementing updates.",
+                "Stay up-to-date with the latest developments and best practices in low-code development and related technologies.",
+                "Communicate effectively with clients to gather requirements, provide progress updates, and address feedback.",
+                "Manage project timelines, budgets, and resources to ensure timely delivery of high-quality solutions."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I made",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "VFitter",
+            "Description": "VFitter lets educators design relevant curriculums that plug into high-demand roles. Learners prove competencies to employers through cutting-edge simulations. It's the efficient <span class='underline'>hiring ecosystem</span> the world desperately needs.",
+            "imgs": [
+                "assets/images/vfitter/image1.png",
+                "assets/images/vfitter/image2.png",
+                "assets/images/vfitter/image3.png",
+                "assets/images/vfitter/image4.png",
+                "assets/images/vfitter/image5.png",
+                "assets/images/vfitter/image6.png"
+            ],
+            "Technologies": [
+                "Bubble IO",
+                "JavaScript",
+                "CSS",
+                "Large Language Models"
+            ],
+            "Link": "https://www.vfitter.com"
+        },
+        {
+            "Title": "Jadu",
+            "Description": "A company that provides low-code Web Experience Management software. <span class='underline'>Jadu's software specializes in web CMS</span>, forms, portal, and customer case management tools for enterprises. Jadu's platform is used by hundreds of local authorities and higher education institutions around the world",
+            "imgs": [
+                "assets/images/jadu/image1.png",
+                "assets/images/jadu/image2.png",
+                "assets/images/jadu/image3.png",
+                "assets/images/jadu/image4.png"
+            ],
+            "Technologies": [
+                "Bubble IO",
+                "CSS",
+                "JavaScript"
+            ],
+            "Link": "https://www.jadu.net"
+        },
+        {
+            "Title": "Arm Bracket",
+            "Description": "An online service that creates <span class='underline'>brackets and automates live</span> table tournaments. The brackets can also be printed",
+            "imgs": [
+                "assets/images/armbrackets/image1.png",
+                "assets/images/armbrackets/image2.png",
+                "assets/images/armbrackets/image3.png"
+            ],
+            "Technologies": [
+                "Bubble IO",
+                "JavaScript"
+            ],
+            "Link": "https://www.armbracket.com"
+        },
+        {
+            "Title": "Veekel",
+            "Description": "Veekel is the <span class='underline'>next-gen platform connecting car</span> dealers and buyers on an intuitive and <span class='underline'>most advance car dealing and auctions</span> platform.",
+            "imgs": [
+                "assets/images/veekel/image1.png",
+                "assets/images/veekel/image2.png",
+                "assets/images/veekel/image3.png",
+                "assets/images/veekel/image4.png",
+                "assets/images/veekel/image5.png"
+            ],
+            "Technologies": [
+                "Bubble IO",
+                "JavaScript"
+            ],
+            "Link": "https://www.veekel.com"
+        },
+        {
+            "Title": "Streambean",
+            "Description": "A Platform that <span class='underline'>Host and schedule meetings</span>, send email or sms, track leads and KPIs, make sales, and train better sales agents – oh, and connect your existing CRM.",
+            "imgs": [
+                "assets/images/streambean/image1.png",
+                "assets/images/streambean/image2.png",
+                "assets/images/streambean/image3.png",
+                "assets/images/streambean/image4.png",
+                "assets/images/streambean/image5.png"
+            ],
+            "Technologies": [
+                "Bubble IO",
+                "JavaScript"
+            ],
+            "Link": "https://streambean.ai/"
+        },
+        {
+            "Title": "Kay&Emms Web App",
+            "Description": "A full fledge web app that is used to ease the customers, employees, and stake holders of KayandEmms",
+            "imgs": [
+                "assets/images/kms/image1.png",
+                "assets/images/kms/image2.png",
+                "assets/images/kms/image3.png",
+                "assets/images/kms/image4.png",
+                "assets/images/kms/image5.png",
+                "assets/images/kms/image6.png",
+                "assets/images/kms/image7.png",
+                "assets/images/kms/image8.png",
+                "assets/images/kms/image9.png",
+                "assets/images/kms/image10.png",
+                "assets/images/kms/image11.png",
+                "assets/images/kms/image12.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "Typescript",
+                "Bootstrap",
+                "SCSS",
+                ".NET",
+                "Oracle",
+                "3rd Parties Module"
+            ],
+            "Link": "https://streambean.ai/"
+        }
+    ],
+    "OtherProjects.Title": "Projects that I was a part of",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Stable Books",
+            "Description": "A web app to manage accountability",
+            "ghLink": "#",
+            "demoLink": "https://www.stablebooks.co",
+            "Technologies": [
+                "Bubble IO"
+            ]
+        },
+        {
+            "Title": "Online Job Recruitment | Jobify",
+            "Description": "Jobify strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies",
+            "ghLink": "https://github.com/moinakmalkhan/jobify-backend",
+            "Technologies": [
+                "React",
+                "Next JS",
+                "Django",
+                "Tailwind",
+                "JWT Authentication"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
